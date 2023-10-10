@@ -48,10 +48,4 @@ Thank you for your interest in contributing to the LeetCode 75 repository! We ap
     git push origin main
     ```
 
-
-
-## Contact
-
-If you have any questions or need further assistance, please feel free to [contact us](mailto:codingclubcucek@gmail.com).
-
 Happy coding! 🚀
